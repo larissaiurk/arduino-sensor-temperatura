@@ -17,6 +17,6 @@
 
 ### Projeto
 
-Projeto desenvolvido na aula de Sistemas Embarcados, na Universidade Positivo. Primeiramente, teste todos os componentes no [Tinkercad](https://www.tinkercad.com/). Depois de testado, criei o circuito real no arduino. 
+Projeto desenvolvido na aula de Sistemas Embarcados, na Universidade Positivo, sob comando do professor Dr Edras Pacola. Primeiramente, teste todos os componentes no [Tinkercad](https://www.tinkercad.com/). Depois de testado, criei o circuito real no arduino. 
 
 Feito com ❤️ por Larissa Iurk
